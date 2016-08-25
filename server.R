@@ -6,11 +6,12 @@ library(plyr)
 library(reshape2)
 library(DT)
 library(datasets)
+source("Calcul1.R")
 
 # Define server logic required to summarize and view the selected dataset
 shinyServer(function(input, output) {
-  setwd(dir="C:/Users/dflouriot/Desktop/Application pronos/")
-  source("Calcul1.R")
+ 
+
 ##Calendrier Ligue1  
   # Return the requested dataset
   calendrierl1 <- reactive({
