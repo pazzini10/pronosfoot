@@ -3,8 +3,7 @@ library(formattable)
 library(plyr) 
 library(reshape2)
 
-setwd(dir="C:/Users/dflouriot/Desktop/Application pronos/")
-getwd()
+ 
 source("Crawl.R")
 def_jour=function(i){
 calend=calendrier[which(calendrier[,1]==i),c(2,3,4,5,6)]
@@ -14,7 +13,7 @@ return(calend)}
 pronos=read.table("C:/Users/dflouriot/Desktop/Application pronos/Pronos ligue1.csv",sep=";",header = TRUE)
  
 
-#jointure avec les résultats
+#jointure avec les rÃ©sultats
 
 pronos_cal=merge(pronos,calendrier[,c(4,5,6,7,8)],by=c("home","away"))
 
@@ -86,7 +85,7 @@ base_pronos=rbind(pronos_cal_final,bonus)
 
 
 
-#Classement par journée et au global
+#Classement par journÃ©e et au global
 
  
 
