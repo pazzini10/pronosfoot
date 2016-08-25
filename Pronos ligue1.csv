@@ -1,0 +1,21 @@
+journee;home;away;Gaetan;Maxime;Florian;David;Quentin;Alex;Anais;Romain;Edouard;Pierre;Martin
+1;SC Bastia;Paris Saint-Germain;;0_2;1_3;0_3;0_3;0_3;1_2;0_2;0_1;0_3;
+1;AS Monaco;EA Guingamp;;3_1;2_0;2_2;3_1;1_0;1_0;1_0;1_1;2_1;
+1;Girondins de Bordeaux;AS Saint-Etienne;;2_1;2_1;1_0;1_0;2_0;1_1;1_1;3_1;2_0;
+1;SM Caen;FC Lorient;;1_2;1_0;2_0;1_0;1_2;1_0;1_0;1_0;2_1;
+1;Dijon FCO;FC Nantes;;0_1;1_1;0_1;0_0;2_0;2_1;1_1;0_0;0_0;
+1;FC Metz;LOSC;;0_1;0_1;0_0;0_0;1_1;0_1;0_1;1_0;0_1;
+1;Montpellier Hérault SC;Angers SCO;;1_1;1_2;1_1;0_0;0_1;1_0;1_0;1_0;0_1;
+1;AS Nancy Lorraine;Olympique Lyonnais;;0_2;0_2;1_0;0_1;0_2;0_2;0_2;0_1;0_1;
+1;OGC Nice;Stade Rennais FC;;0_2;0_0;1_2;0_1;0_1;1_0;1_1;1_1;0_1;
+1;Olympique de Marseille;Toulouse FC;;1_1;1_0;2_0;2_0;1_2;1_1;1_1;1_0;1_2;
+2;Olympique Lyonnais;SM Caen;;2_1;2_0;2_0;2_0;3_0;1_2;2_1;0_1;3_2;2_2
+2;FC Nantes;AS Monaco;;1_2;0_1;1_0;0_0;1_1;0_1;1_1;1_1;1_1;1_2
+2;Angers SCO;OGC Nice;;0_1;1_0;2_1;1_0;1_1;1_1;1_1;1_0;0_0;1_1
+2;LOSC;Dijon FCO;;1_0;2_1;2_0;2_0;0_1;2_0;2_0;1_0;2_0;2_2
+2;FC Lorient;SC Bastia;;2_0;1_0;2_0;2_1;2_0;1_0;2_1;1_0;1_0;2_0
+2;Stade Rennais FC;AS Nancy Lorraine;;2_0;2_0;0_0;2_0;2_1;2_1;2_1;1_0;1_0;3_0
+2;Toulouse FC;Girondins de Bordeaux;;1_1;1_2;0_1;0_1;1_2;1_2;1_1;1_2;0_1;1_2
+2;EA Guingamp;Olympique de Marseille;;1_2;2_1;2_1;0_1;2_1;0_1;1_1;0_1;1_1;0_1
+2;AS Saint-Etienne;Montpellier Hérault SC;;1_0;1_1;1_0;1_0;1_0;1_1;1_0;1_0;1_1;2_0
+2;Paris Saint-Germain;FC Metz;;3_0;2_0;3_0;2_0;2_0;3_0;2_0;2_0;3_0;5_0
