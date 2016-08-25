@@ -1,7 +1,4 @@
 
-library(formattable)
-library(plyr) 
-library(reshape2)
 
  
 source("Crawl.R")
