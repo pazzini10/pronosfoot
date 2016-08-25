@@ -11,6 +11,8 @@ packages(plyr)
 packages(reshape2)
 packages(DT)
 packages(datasets)
+packages(rvest)
+packages(stringr)
  
 
 
@@ -21,4 +23,7 @@ library(plyr)
 library(reshape2)
 library(DT)
 library(datasets)
+library(rvest)
+library(stringr)
+
 source("Calcul1.R")
