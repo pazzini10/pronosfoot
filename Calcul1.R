@@ -10,7 +10,7 @@ calend=calendrier[which(calendrier[,1]==i),c(2,3,4,5,6)]
 return(calend)}
 
 
-pronos=read.table("C:/Users/dflouriot/Desktop/Application pronos/Pronos ligue1.csv",sep=";",header = TRUE)
+pronos=read.table("./Pronos ligue1.csv",sep=";",header = TRUE)
  
 
 #jointure avec les résultats
