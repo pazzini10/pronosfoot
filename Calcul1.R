@@ -7,7 +7,7 @@ pronos$away=as.character(pronos$away)
 pronos$home[str_sub(pronos$home, 1, 11) =="Montpellier"]  = "Montpellier Herault SC"
 pronos$away[str_sub(pronos$away, 1, 11) =="Montpellier"]  = "Montpellier Herault SC"
 
-load("calendrier.Rda")
+#load("calendrier.Rda")
 
 calendrier$home[str_sub(calendrier$home, 1, 11) =="Montpellier"] = "Montpellier Herault SC"
 calendrier$away[str_sub(calendrier$away, 1, 11) =="Montpellier"] = "Montpellier Herault SC"
