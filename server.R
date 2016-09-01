@@ -10,7 +10,7 @@ library(shiny)
 # Define server logic required to summarize and view the selected dataset
 shinyServer(function(input, output) {
 
-  source("Crawl.R")
+  #source("Crawl.R")
   source("Calcul1.R")
   
   
