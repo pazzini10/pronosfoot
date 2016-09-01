@@ -15,7 +15,7 @@ packages(rvest)
 packages(stringr)
 packages(httr)
 packages(XML)
-
+packages(shinythemes)
 
 library(shiny)
 library(formattable)
@@ -27,6 +27,7 @@ library(rvest)
 library(stringr)
 library(httr)
 library(XML)
+library(shinythemes)
 
 
 

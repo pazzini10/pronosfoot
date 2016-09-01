@@ -1,12 +1,14 @@
 library(shiny)
 
 # Define UI for dataset viewer application
-shinyUI(navbarPage("Pronos entre amis",
+shinyUI(navbarPage(style = "color:white; font-family:'Comic Sans MS'", 
+                      "Pronos footix",
                    
                    tabPanel("Calendrier et Resultats",                 
-                            fluidPage(
+                            fluidPage(theme=shinytheme("flatly"),
                               
                               # Application title
+                              
                               
                               
                               # Sidebar with controls to select a dataset and specify the number
