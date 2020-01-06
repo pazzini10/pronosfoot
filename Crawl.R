@@ -1,9 +1,6 @@
 #install.packages(c("rvest","stringr"))
 
 
-#Sys.setenv(http_proxy="http://pac.zscalertwo.net/pagesjaunes.fr/default.pac")
-#options(RCurlOptions = list(proxy = "zscaler-paris.pj.fr:80"))
-#options(shinyapps.http = "rcurl")
 
 fetch_l1_calendar <- function(saison=100){
   
